@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qacuCkx9icAf997KODUcLVxCNZvAjpYUYFYYW5nFWPOVuBMIdeUTgW8SNtNJrufT7+0CzKZ+gbo9xuAP1uui3A==",
+  "dgSpecHash": "mMFVdZ2Ju9Re4NmUyEB2WzMDXSkbneJ8NFOAzcXXPGj9fl2iaE0Dc2t9TQgOXfzhTx+24WXcOAnaN8I+lLJfcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\PROJETOS\\PROEVENTOS\\Back\\src\\ProEvento.API\\ProEvento.API.csproj",
+  "projectFilePath": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\projetos\\proeventos\\back\\src\\proevento.api\\ProEvento.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devsy\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\devsy\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
