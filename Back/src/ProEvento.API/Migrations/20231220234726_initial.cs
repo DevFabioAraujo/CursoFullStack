@@ -29,8 +29,7 @@ namespace ProEvento.API.Migrations
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropTable(
-                name: "Eventos");
+            migrationBuilder.DropTable(name: "Eventos");
         }
     }
 }
