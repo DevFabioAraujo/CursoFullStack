@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\projetos\\proeventos\\back\\src\\proevento.api\\ProEvento.API.csproj": {}
+    "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\PROJETOS\\PROEVENTOS\\Back\\src\\ProEvento.API\\ProEvento.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\projetos\\proeventos\\back\\src\\proevento.api\\ProEvento.API.csproj": {
+    "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\PROJETOS\\PROEVENTOS\\Back\\src\\ProEvento.API\\ProEvento.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\projetos\\proeventos\\back\\src\\proevento.api\\ProEvento.API.csproj",
+        "projectUniqueName": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\PROJETOS\\PROEVENTOS\\Back\\src\\ProEvento.API\\ProEvento.API.csproj",
         "projectName": "ProEvento.API",
-        "projectPath": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\projetos\\proeventos\\back\\src\\proevento.api\\ProEvento.API.csproj",
+        "projectPath": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\PROJETOS\\PROEVENTOS\\Back\\src\\ProEvento.API\\ProEvento.API.csproj",
         "packagesPath": "C:\\Users\\devsy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\projetos\\proeventos\\back\\src\\proevento.api\\obj\\",
+        "outputPath": "C:\\Users\\devsy\\OneDrive\\Área de Trabalho\\Full-Stack_Net_Angular\\PROJETOS\\PROEVENTOS\\Back\\src\\ProEvento.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,7 +76,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.125\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
